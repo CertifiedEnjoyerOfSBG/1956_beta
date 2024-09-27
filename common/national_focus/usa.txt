@@ -5077,7 +5077,7 @@ focus_tree = {
 
 	focus = {
 		id = r56_USA_foundation_of_NATO
-		icon = GFX_focus_chi_mission_to_the_us
+		icon = GFX_goal_generic_befriend_united_states
 		prerequisite = { focus = r56_USA_return_to_europe }
 		x = -5
 		y = 1
